@@ -1,0 +1,16 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+}
+
+nav div {
+    padding: 2vh 2vw;
+    background-color: aqua;
+    margin: 10px;
+}
